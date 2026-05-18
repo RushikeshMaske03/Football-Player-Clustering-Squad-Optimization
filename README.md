@@ -39,7 +39,7 @@ Right Winger(RW) receive the highest wages then followed by Left Winger(LW) and 
 #### 3. Football-Producing Countries:
 European countries dominate elite football player.england at top then germany,spain,france
 
-#### 2. Data Preprocessing:
+### 2. Data Preprocessing:
 #### 1. Separated goalkeepers from outfield players:
 Goalkeepers have completely different skill distributions compared to outfield players.
 
