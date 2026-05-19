@@ -122,6 +122,34 @@ results showed that KMeans achieved the very good stability score(0.9547) indica
 ###   2: "Midfielders"
 <img width="350" height="180" alt="download" src="https://github.com/user-attachments/assets/1d234320-6079-4060-9273-96c03b767cee" />
 
-<img width="350" height="180" alt="download" src="https://github.com/user-attachments/assets/e40bc785-c19b-44b5-a332-3923705fc0db" />
+<img width="400" height="180" alt="download" src="https://github.com/user-attachments/assets/e40bc785-c19b-44b5-a332-3923705fc0db" />
 
+## Budget Optimization(team formation)
+### 1.Optimal competitive team budget (overall) ≈€820M
+- Maximum achievable average rating = 91
+#### Insight:
+- Spending more than €820M does not significantly improve team strength indicating diminishing returns on investment.
+<img width="400" height="180" alt="download" src="https://github.com/user-attachments/assets/7119e175-299b-4afe-80d2-db4cf99d5368" />
 
+ 
+### 2.Optimal competitive team budget (potential) €625M
+- Maximum achievable average rating is ≈93
+#### Insight:
+- Spending more than €625M does not significantly improve team strength indicating diminishing returns on investment.
+- Potential-based squads achieved elite performance at ≈24% lower cost as compared to current player(overall)
+ <img width="400" height="180" alt="download" src="https://github.com/user-attachments/assets/377edcab-a9e3-44de-9955-90f993aaac30" />
+
+### by analysis 
+|metric         | Overall Team	       | Potential Team               |
+---------------|-------------------|------------------------------------|
+|Goal	       | Best team today	   | Best team future growth      |
+|Max Rating	   | 91	                   | 92.90                        |
+|Optimal Cost   | ≈€820M	               | €625M                        |
+|Interpretation | Expensive elite squad | Cheaper high-potential squad |
+<img width="400" height="180" alt="download" src="https://github.com/user-attachments/assets/487a0bf1-5010-4caf-8f21-936fbbba6d65" />
+
+#### 1. Optimal competitive budget (overall) ≈€820M
+immediate best performance team budget
+
+#### 2. Optimal competitive budget (potential) ≈€625M
+future best performance team budget
